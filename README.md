@@ -62,9 +62,10 @@ background: #CC13EA;
 
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image](https://github.com/PreethiS647/event-registration/assets/147313372/14ef04d1-8ddb-4e99-8481-220d48b3daee)
+![image](https://github.com/PreethiS647/event-registration/assets/147313372/bfbbde61-f1f9-4f20-8f5e-fd4d2cad840d)
+![image](https://github.com/PreethiS647/event-registration/assets/147313372/531d1ff7-467b-462a-97e0-6054e441ffa9)
+
 
 ## Result:
 Thus, A Web application for event registration is designed and displayed.
